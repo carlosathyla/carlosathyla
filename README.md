@@ -6,11 +6,15 @@
 - 👅 Eu falo: 🇧🇷 Português, 🇪🇸 Espanhol e 🇺🇸󠁢󠁳󠁳󠁷󠁿 Inglês
 - 😄 Pronomes: ele/dele
 
+##
+
 <div align="center">
   <a href="https://github.com/carlosathyla">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosathyla&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosathyla&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+
+ 
   
 <div style="display: inline_block"><br>
   <img alt="Athyla-Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -23,7 +27,7 @@
   
 </div>
   
- ##
+  ##
   
 <div>
   <a href="https://api.whatsapp.com/send?phone=%2B5511991283798&text=Oi+%C3%81thyla%21+Gostaria+de+conversar+contigo%21+Voc%C3%AA+esta+dispon%C3%ADvel%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
