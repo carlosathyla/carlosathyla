@@ -30,13 +30,10 @@
   ##
   
 <div>
-  <a href="https://api.whatsapp.com/send?phone=%2B5511991283798&text=Oi+%C3%81thyla%21+Gostaria+de+conversar+contigo%21+Voc%C3%AA+esta+dispon%C3%ADvel%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=%2B5582996596433&text=Oi+%C3%81thyla%21+Gostaria+de+conversar+contigo%21+Voc%C3%AA+esta+dispon%C3%ADvel%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/8ydGrJMx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlosathyla" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:carlos.athyla@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/carlosathyla/carlosathyla/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
   
   
